@@ -58,5 +58,33 @@
 	{
 		"pantone": "radiant-orchid-18-3224",
 		"hex": "#b565a7"
+	},
+	{
+		"pantone": "marsala-18-1438",
+		"hex": "#955251"
+	},
+	{
+		"pantone": "rose-quartz-13-152",
+		"hex": "#F7CAC9"
+	},
+	{
+		"pantone": "serenity-15-3913",
+		"hex": "#92A8D1"
+	},
+	{
+		"pantone": "greenery-15-0343",
+		"hex": "#88B04B"
+	},
+	{
+		"pantone": "ultra-violet-18-3838",
+		"hex": "#5F4B8B"
+	},
+	{
+		"pantone": "living-coral-16-1546",
+		"hex": "#FF6F61"
+	},
+	{
+		"pantone": "classic-blue-19-4052",
+		"hex": "#0F4C81"
 	}
 ]
